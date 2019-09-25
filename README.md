@@ -51,7 +51,7 @@ a music player that implements all functions for users based on user stories and
 
 ## Process
 
-Designed and functions with HTML,CSS, Javascript and jQuery
+Designed and added functions with HTML,CSS, Javascript and jQuery
 
 Used sematic coding and layout throughout HTML and Javascript files
 
