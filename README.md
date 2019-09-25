@@ -5,6 +5,7 @@ A starter project for Bloc's jQuery-driven music player app
 
 ## about
 https://img.shields.io/badge/blocjams-Player%20all%20your%20favorite%20music-blue
+
 a music player that implements all functions for users based on user stories and acceptance criteria
 
 "As a listener, I want to see basic information about the album so that I can decide whether I'm interested in it."
