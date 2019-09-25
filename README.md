@@ -60,6 +60,10 @@ Created Functions and event handlers pulling from DOM with jQuery
 
 Added icons and images with SRC and IMG tags 
 
+Created git branch and merged files to master branch pushing files from master
+
+Uploaded files to netlify
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
